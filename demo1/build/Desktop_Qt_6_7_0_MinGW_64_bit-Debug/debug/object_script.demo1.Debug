@@ -1,0 +1,12 @@
+debug/admin.o
+debug/card.o
+debug/first.o
+debug/main.o
+debug/message.o
+debug/transaction.o
+debug/user.o
+debug/qrc_assets.o
+debug/qrc_assets2.o
+debug/qrc_assets3.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_first.o

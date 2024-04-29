@@ -1,0 +1,12 @@
+release/admin.o
+release/card.o
+release/first.o
+release/main.o
+release/message.o
+release/transaction.o
+release/user.o
+release/qrc_assets.o
+release/qrc_assets2.o
+release/qrc_assets3.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_first.o

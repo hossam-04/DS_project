@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>WhatsApp Image 2023-07-02 at 20.35.50.jpg</file>
+        <file>addCard.png</file>
+        <file>ATM.png</file>
+        <file>balance.png</file>
+        <file>cashIn.png</file>
+        <file>firstPage.png</file>
+        <file>leftSide.png</file>
+    </qresource>
+</RCC>
